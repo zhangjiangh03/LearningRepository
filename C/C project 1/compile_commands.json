@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/storage/emulated/0/C语言/C project",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang  -I\"/storage/emulated/0/C语言/C project/include\" -I\"/storage/emulated/0/C语言/C project/src\" -Wall -std=c99 -fallow-void-main -o CMakeFiles/Main.dir/src/main.c.o -c \"/storage/emulated/0/C语言/C project/src/main.c\"",
+  "file": "/storage/emulated/0/C语言/C project/src/main.c"
+},
+{
+  "directory": "/storage/emulated/0/C语言/C project",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang  -I\"/storage/emulated/0/C语言/C project/include\" -I\"/storage/emulated/0/C语言/C project/src\" -Wall -std=c99 -fallow-void-main -o CMakeFiles/Main.dir/src/max_and_min.c.o -c \"/storage/emulated/0/C语言/C project/src/max and min.c\"",
+  "file": "/storage/emulated/0/C语言/C project/src/max and min.c"
+}
+]

@@ -1,0 +1,3 @@
+/storage/emulated/0/C语言/C project/CMakeFiles/rebuild_cache.dir
+/storage/emulated/0/C语言/C project/CMakeFiles/edit_cache.dir
+/storage/emulated/0/C语言/C project/CMakeFiles/Main.dir
